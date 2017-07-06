@@ -23,6 +23,8 @@ There are several datasets for facial landmarks. For example, the 68 point [iBUG
 # Action Steps
 
  [ ] Prepare data
+ 
  [ ] Training code
+ 
  [ ] Detection code
 
