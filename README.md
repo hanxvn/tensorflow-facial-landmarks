@@ -1,2 +1,15 @@
 # tensorflow-facial-landmarks
-Facial Landmarks using Tensorflow
+Automatically Detect Facial Landmarks using Tensorflow
+
+## Facial Landmarks
+
+## Repository Layout
+
+## How to use
+
+## Datasets
+
+## Training
+
+## Detection
+
